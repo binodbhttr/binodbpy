@@ -8,7 +8,8 @@ setup(
   author = 'Binod Bhattarai',                   # Type in your name
   author_email = 'info@binodb.com.np',      # Type in your E-Mail
   url = 'https://github.com/binodbhttr/binodbpy',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/binodbhttr/binodbpy/archive/0_4.tar.gz',    # I explain this later on
+  #download_url = 'https://github.com/binodbhttr/binodbpy/archive/0_4.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/binodbhttr/binodbpy', 
   keywords = ['Example', 'Samplepip', 'Pipexample'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
